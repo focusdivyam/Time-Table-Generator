@@ -1,0 +1,59 @@
+{
+    "Time": [ [9.00, 13.00], [14.00, 18.00] ],
+
+    "Rooms":
+[
+    ["R410", "150", "small"],
+    ["R102", "150", "small"],
+    ["R103", "150", "small"],
+    ["R104", "150", "small"],
+    ["R303", "250", "medium"],
+    ["R407", "250", "medium"],
+    ["R302", "250", "medium"],
+    ["R305", "250", "medium"],
+    ["LT1","250", "medium"],
+    ["LT2","250", "medium"],
+    ["LH","350", "big"],
+    ["TH","500", "Large"],
+    ["CCLAB1", "250", "CompLAB"],
+    ["CCLAB2", "250", "CompLAB"],
+    ["AIlab", "250", "AILAB"],
+    ["Mechlab", "250", "MELab"],
+    ["EElab1", "250", "EELab"],
+    ["EElab2", "250", "EELab"]    
+],
+
+    "Courses":
+    [
+        ["HS201", "Financial_Economics", [3,0,0], "RajendraSir", "to_be_filled", ["Elective btech 22"]],
+        ["MA201", "Basic_Maths", [2,1,0], "AmitSir" , " ", ["Mnc btech 22"]],
+        ["MA202", "Probability", [2,1,0], "ArjunkumarSir", " ", ["cs btech 20"]],
+        ["MA401", "Real Analysis", [2,0,0], "N.kTomarSir", " ", ["Mnc btech 21"]],
+        ["ME301", "Mechanics", [2,1,0], "MurshidImamSir", " ", ["All btech 22"]],
+        ["CS202", "Algorithm", [3,0,0], "SouravdandpatSir", " ", ["cs btech 22"]],
+        ["CS341", "Operating_System", [3,0,0], "SatendraSir", " ", ["cs btech 21"]],
+        ["CS389", "Innovationlab", [0,0,3] ,"ArijitMondalsir", " ", ["Elective btech 21"]],
+        ["HS301", "Microeconomics",[3,0,0] ,"NalinBhartiSir", " ", ["All btech 22"]],
+        ["EE201", "Electrical",[3,0,0] ,"AmitKumar", " ", ["ee btech 21"]],
+		["EE102","Digital",[3,0,0],"Dhanya", " ", ["ee btech 21"]],
+		["EE104","Analog",[1,1,0], "AmitKumar", " ", ["ee btech 20"]],
+		["EE105","System",[3,0,0],"SivaKumar", " ", ["ee btech 20"]],
+        ["ME101","FluidMech", [2,1,0], "Deepak_Kr", " ", ["ce btech 21"]],
+        ["ME104","Robotic", [3,0,0] ,"SurajVerma", " ", ["me btech 20"]],
+		["ME633","Motor",[2,0,0],"Prachi", " ", ["me btech 23"]],
+		["EE570","Machines",[2,0,0] ,"MurshidImam", " ", ["me btech 20"]],
+        ["EE572","Power",[2,0,0],"Kuntal", " ", ["ee btech 20"]],
+        ["ME572","control",[2,1,0],"SurajVerma", " ", ["me btech 20"]],
+        ["CS101","Architecture",[2,1,0],"Sunil", " ", ["cs btech 22"]],
+        ["ME102","Generator",[2,1,0],"Manoj", " ", ["me btech 19"]],
+        ["CS386","AI1",[3,0,0],"JimsonMathew", " ", ["cs btech 20"]],
+		["EE633","5g_other",[2,1,0],"SivaKumar", "small", ["ee btech 19"]],
+		["CS633","CloudComputing",[3,0,0],"Abhilasha", "small", ["cs btech 19"]],           
+        ["CS359", "NetworksLab", [0,0,3] , "MayankSir", "CompLAB", ["cs btech 21"]],
+        ["CS102", "ArchLab", [0,0,3], "Sunil", "CompLAB", ["cs btech 22"]],
+		["CS387","AI_Practical",[0,0,3],"Biswas", "AILAB", ["cs btech 20"]],
+        ["ME401","Rotation",[0,0,3],"RakeshVerma", "MELab", ["me btech 23"]],
+		["EE103","DigitalLab",[0,0,3],"Dhanya", "EELab", ["ee btech 21"]],
+        ["EE101", "Gates",[0,0,3], "Saumya", "EELab", ["ee btech 21"]] 
+    ]
+}
