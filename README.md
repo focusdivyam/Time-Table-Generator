@@ -1,1 +1,37 @@
 # Time-Table-Generator
+An algorithm that generates a time table using a SAT solver under specific constraints.
+
+CONSTRAINTS-
+Classes should run only from Monday to Friday(available days).
+Only 1 lecture of any course on a single day.
+Classes should be in institute specified timings.
+Labs should be continuous on a day.
+No clashes are there for rooms or profs .
+
+Main highlights:
+Input:
+A list of students representing the courses chosen by a specific student.
+Course info of every course i.e. course id, professor teaching the course, and structure of that course (L-T-P).
+A list of available rooms with their respective capacity.
+Finally, the institute class/work timings.
+
+Output:
+Weekly Schedule for the given courses as per their structure(L-T-P) to a .csv file. 
+Clearly mentioning the time slots and room booked for every course without any clashes.
+
+TECH USED-
+Used python as it is versatile and readable.
+Z3 –SAT solver for checking if the given problem is sat or unsat based upon constraints.
+
+Output:
+User can choose to see whole time table or batch specific time table by entering their batch.
+The algorithm prints the time table accordingly and clearly represents the:
+	-Day of class
+	-Room allocated to course
+	- Course ID and
+	- Prof.  Teaching the course.
+
+For better understanding please refer the video:
+
+
+https://github.com/focusdivyam/Time-Table-Generator/assets/107490578/e1b2698d-62cf-4deb-81bd-0499e8d64ac7
