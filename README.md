@@ -51,6 +51,8 @@ b) Output:
 	Clone the repository to a folder in your local machine and download pyhton z3 sat solver to the same folder and open it in terminal.
 
 	Type 'python main.py' in terminal to generate the time table.
+
+6. [CLick here for sample ouptut] (https://drive.google.com/file/d/1RPfp88cTRErHqzrOb5lVj4ZllDWmvWLO/view?usp=sharing)
    
 7. For better understanding please refer the video:
 
